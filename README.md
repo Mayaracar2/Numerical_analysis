@@ -1,2 +1,2 @@
 # Numerical_analysis
-Repositório para exercícios propostos na aula de cálculo numérico.
+Repositório os para exercícios propostos na aula de cálculo numérico.
